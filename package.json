@@ -1,0 +1,24 @@
+{
+  "name": "leon",
+  "version": "0.0.0-alpha",
+  "description": "Leon is a French/English vocal assistant.",
+  "main": "src/js/index.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LapsTimeOFF/Leon.git"
+  },
+  "keywords": [
+    "leon",
+    "assistant",
+    "vocal"
+  ],
+  "author": "Quentin MASSOT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LapsTimeOFF/Leon/issues"
+  },
+  "homepage": "https://github.com/LapsTimeOFF/Leon#readme"
+}
