@@ -6,7 +6,7 @@ There is a table with all the security updated versions.
 
 |   Version   | Supported          |
 | ----------- | ------------------ |
-| alpha-0.0.0 | :white_check_mark: |
+| 0.0.0-alpha | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
