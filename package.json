@@ -23,7 +23,7 @@
   "homepage": "https://github.com/LapsTimeOFF/Leon#readme",
   "devDependencies": {
     "eslint": "^8.8.0",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.20"
   },
   "dependencies": {
     "express": "^4.17.2",
